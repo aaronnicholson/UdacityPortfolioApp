@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aaronnicholson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-f4c5156e20ca24384111f23db36d03d13161ca1b.jar" />
+    </item>
+    <item
+        jar="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/pre-dexed/debug/classes-df92aefd473617a8623c23b9e67cc33543b24467.jar" />
+    </item>
+    <item
+        jar="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-0c8179dbc7843db6ddeb137518196082fc4fbab9.jar" />
+    </item>
+    <item
+        jar="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/aaronnicholson/Dropbox/The Code Builders/Sites/CURRENT/AndroidApps/Udacity/Repos/UdacityPortfolioApp/app/build/intermediates/pre-dexed/debug/classes-cef5c669177ea4306773d6b9160809b5c9dc286d.jar" />
+    </item>
+
+</items>

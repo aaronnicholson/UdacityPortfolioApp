@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aaron Nicholson\'s App Launcher</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="list_title">My Nanodegree App!</string>
+    <string name="label_spotify">Spotify Streamer</string>
+    <string name="label_scores">scores app</string>
+    <string name="label_library">library app</string>
+    <string name="label_build_it">build it bigger</string>
+    <string name="label_xyz">xyz reader</string>
+    <string name="label_capstone">capstone: my own app</string>
+</resources>
