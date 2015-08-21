@@ -9,4 +9,5 @@
     <string name="label_build_it">build it bigger</string>
     <string name="label_xyz">xyz reader</string>
     <string name="label_capstone">capstone: my own app</string>
+    <string name="this_launches">"This launches "</string>
 </resources>

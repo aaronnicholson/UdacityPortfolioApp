@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
             final int finalI = i;
             buttons[i].setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
-                    Toast.makeText(getApplicationContext(), "This launches " + buttons[finalI].getText().toString().toUpperCase(), Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), getString(R.string.this_launches) + buttons[finalI].getText().toString().toUpperCase(), Toast.LENGTH_LONG).show();
                 }
             });
         }
