@@ -2,7 +2,6 @@ package com.thecodebuilders.layoutapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -25,12 +24,12 @@ public class MainActivity extends AppCompatActivity {
     private void setUpListeners() {
         //store the buttons in an array
         buttons = new Button[]{
-                (Button) findViewById(R.id.button1),
-                (Button) findViewById(R.id.button2),
-                (Button) findViewById(R.id.button3),
-                (Button) findViewById(R.id.button4),
-                (Button) findViewById(R.id.button5),
-                (Button) findViewById(R.id.button6),
+                (Button) findViewById(R.id.buttonStreamer),
+                (Button) findViewById(R.id.buttonScores),
+                (Button) findViewById(R.id.buttonLibrary),
+                (Button) findViewById(R.id.buttonBuildIt),
+                (Button) findViewById(R.id.buttonXYZ),
+                (Button) findViewById(R.id.buttonCapstone),
         };
 
         //iterate through the buttons and set the action that occurs when clicked
